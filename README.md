@@ -23,6 +23,6 @@ the following materials are the basic components used for the mod
 4. Dual gear extruder bits
 5. 42-40 stepper motor
 6. Screws(not able to specify yet)
-
+7. BL-Touch
 
 _personal note:_ I am committed and already bought some parts on here, but I don't have the parts required for testing yet
