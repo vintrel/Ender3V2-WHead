@@ -1,6 +1,6 @@
 # Ender3V2-WHead
 Mid low-cost Ender3V2 Direct Drive mod
-![THINGONE]!(Screenshots-Pics/HeadFull.png)
+![THINGONE!](Screenshots-Pics/HeadFull.png)
 
 Designed in shapr3d
 # STATUS: Rough Draft
